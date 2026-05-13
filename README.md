@@ -20,7 +20,7 @@ A modern, visually stunning Tic Tac Toe game built with HTML, CSS, and Vanilla J
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/neon-tic-tac-toe.git
+   git clone https://github.com/sajibwh0/tic-tac-toe.git
    ```
 2. **Navigate to the project folder:**
    ```bash
